@@ -2,7 +2,7 @@
 
 今年计划翻译 100 篇左右的好文，前期主要是英译中，后期会是中译英。
 
-输出地址：https://www.barretlee.com/translation/
+预发布到 issue，最后沉淀在：https://www.barretlee.com/translation/
 
 ## TODO List
 
