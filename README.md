@@ -2,8 +2,12 @@
 
 今年计划翻译 100 篇左右的好文，前期主要是英译中，后期会是中译英。
 
-## TODOList
+## TODO List
 
 - [ ] 添加订阅计划，各个领域都找几个 RSS
-- [ ] 规划翻译计划
+- [ ] 规划翻译计划，坚持每周有输出
 
+
+## RSS 订阅收集
+
+https://github.com/barretlee/translation-plan/issues/1
