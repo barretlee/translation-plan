@@ -4,11 +4,9 @@
 
 预发布到 issue，最后沉淀在：https://www.barretlee.com/translation/
 
-## TODO List
+## 策略
 
-- [x] 添加订阅计划，各个领域都找几个 RSS
-- [x] 规划翻译计划，坚持每周有输出
-
+每天从 RSS 订阅中找到几篇不错的文章贴在 issue，感觉内容超过 80 分的文章，会翻译出来；不足 80 分的文章，简单评论给出概要后将 issue 关闭。
 
 ## RSS 订阅收集
 
