@@ -14,6 +14,11 @@
 - [点击推荐好文](https://github.com/barretlee/translation-plan/issues/new?assignees=&labels=%E5%BE%85%E7%BF%BB%E8%AF%91&template=----.md&title=%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98)
 - [RSS 订阅推荐](https://github.com/barretlee/translation-plan/issues/1)
 
+## 翻译文章列表
+
+- [KV Storage, the Web's First Built-In Module](https://github.com/barretlee/translation-plan/issues/6#issuecomment-472473832)
+- [USB 4: Everything We Know So Far](https://github.com/barretlee/translation-plan/issues/2#issuecomment-471623231)
+
 ## License
 
 翻译的文章采用 MIT 协议。
